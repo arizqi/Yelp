@@ -21,9 +21,10 @@ Filter page. Unfortunately, not all the filters are supported in the Yelp API.
 - [ ] Optional: Implement the restaurant detail page.
 
 ### Walkthrough
-![Video Walkthrough](http://i.imgur.com/9d4fXIm.gif)
+![Video Walkthrough](https://raw.githubusercontent.com/arizqi/Yelp/master/yelp.gif)
 
 Credits
 ---------
 * [Yelp API](http://developer.rottentomatoes.com/docs/read/JSON)
-* [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* [AFNetworking](http://www.yelp.com/developers/documentation/v2/search_api)
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
