@@ -16,8 +16,6 @@ class CustomFilter {
             [
                 "label": "Sort By",
                 "name": "sort",
-                "type": "Single",
-                "opened": false,
                 "options": [
                     [
                         "label": "Best Match",
@@ -40,7 +38,6 @@ class CustomFilter {
             [
                 "label": "Popular",
                 "type": "Default",
-                "opened": false,
                 "options": [
                     [
                         "label": "Offering a Deal",
@@ -53,8 +50,6 @@ class CustomFilter {
             [
                 "label": "Distance",
                 "name": "radius_filter",
-                "type": "Single",
-                "opened": false,
                 "options": [
                     [
                         "label": "Auto",
@@ -71,8 +66,6 @@ class CustomFilter {
             [
                 "label": "Category",
                 "name": "category",
-                "type": "Single",
-                "opened": false,
                 "options": [
                     [
                         "label": "Seafood",
