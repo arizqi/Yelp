@@ -37,7 +37,6 @@ class CustomFilter {
             
             [
                 "label": "Popular",
-                "type": "Default",
                 "options": [
                     [
                         "label": "Offering a Deal",
